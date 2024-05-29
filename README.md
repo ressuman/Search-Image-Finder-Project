@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 ## Search Image Finder
 
-![Search Image Finder gif]()
+![Search Image Finder gif](./src/assets/search-image-finder.gif)
